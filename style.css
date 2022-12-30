@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(212, 212, 212);
+}
+
+h1, h2 {
+    font-family: Arial;
+    font-size:20px;
+    color:green;
+}
+
+span {
+    font-family: Arial;
+    font-size:13px;
+    color:green;
+}
